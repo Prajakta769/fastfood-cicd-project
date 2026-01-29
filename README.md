@@ -1,2 +1,1 @@
-# fastfood-cicd-project
-FastFood/CICD/Project
+# FastFood CI/CD Demo Project
